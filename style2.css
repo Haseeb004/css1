@@ -1,0 +1,23 @@
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    position: absolut;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(143, 154, 154);
+    opacity: 0.5;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+.parent{
+    position: relative;
+}
+p{
+    background-color: green;
+    background-color: hsl(0,50%,50%,0.5);
+}
+    

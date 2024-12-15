@@ -1,0 +1,16 @@
+h1{
+    color: red;
+}
+.para{
+    color: aquamarine;
+}
+ul>li>a{
+    font-style: italic;
+    text-decoration: none;
+}
+.card{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+}
